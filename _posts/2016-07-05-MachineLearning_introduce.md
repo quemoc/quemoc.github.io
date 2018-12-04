@@ -36,4 +36,4 @@ tag: 机器学习
 
 <br>
 
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/07/MachineLearning_introduce/)
+转载请注明：[Adam的博客](http://liusuo.me) » [点击阅读原文](http://liusuo.me/2016/07/MachineLearning_introduce/)
